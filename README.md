@@ -22,15 +22,6 @@ Analyzes Malaysian vehicle registration data to reveal trends in vehicle types, 
 - Examine the adoption rate of green vehicles by state.
 - Visualize and compare data across geographic regions.
 
-## Challenges
-- Handling missing data and standardizing vehicle categories.
-- Ensuring data completeness and accuracy.
-
-## How to Use
-1. Clone the repository: `git clone https://github.com/yourusername/Malaysia-Auto-Insights.git`
-2. Navigate to the project directory.
-3. Install required libraries using `pip install -r requirements.txt`.
-4. Run the analysis scripts to generate visualizations.
 
 ## Expected Outcomes
 - **Actionable Insights**: For policymakers and market analysts.
